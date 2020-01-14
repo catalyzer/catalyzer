@@ -4,12 +4,20 @@
   "description": "",
   "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catalyzer/catalyzer.git"
+  },
+  "keywords": [
+  ],
   "author": {
     "name": "Igor Golovanov",
     "email": "igor.golovanov@gmail.com"
   },
-  "license": "ISC"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/catalyzer/catalyzer/issues"
+  },
+  "homepage": "https://github.com/catalyzer/catalyzer#readme"
 }
